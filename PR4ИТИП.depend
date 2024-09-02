@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1711732772 source:c:\c++\tasks\pr4纫认\main.cpp
+	<cstdio>
+	<cstring>
+	<limits>
+	<windows.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<set>
+	<clocale>
+	<ctime>
+	<string>
+	<regex>
+	<algorithm>
+	<random>
+	<list>
+	"json.h"
+
+1711730117 c:\c++\tasks\pr4纫认\json.h
+	"config.h"
+	"json_features.h"
+	"reader.h"
+	"value.h"
+	"writer.h"
+
+1711730117 c:\c++\tasks\pr4纫认\config.h
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+
+1711730117 c:\c++\tasks\pr4纫认\allocator.h
+	<cstring>
+	<memory>
+
+1711730117 c:\c++\tasks\pr4纫认\version.h
+
+1711730117 c:\c++\tasks\pr4纫认\json_features.h
+	"forwards.h"
+
+1711730117 c:\c++\tasks\pr4纫认\forwards.h
+	"config.h"
+
+1711730117 c:\c++\tasks\pr4纫认\reader.h
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+
+1711730117 c:\c++\tasks\pr4纫认\value.h
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+
+1711730118 c:\c++\tasks\pr4纫认\writer.h
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+
